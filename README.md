@@ -4,7 +4,7 @@
 
 + Gaussian 16 (Linux) 需另行安装；
 
-+ exo-1的Maestro (Schrödinger) 构想搜素文件见*exo*-1-csearch目录
++ exo-1的Maestro (Schrödinger) 构象搜索文件见*exo*-1-csearch目录
 
 + 所用结构文件见sdf_files目录
 
